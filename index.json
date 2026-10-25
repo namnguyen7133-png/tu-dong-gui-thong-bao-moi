@@ -1,0 +1,44 @@
+[
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_1",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_1\\bang_1.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_1_20261025_200203.json",
+        "timestamp": "2026-10-25 20:02:03"
+    },
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_2",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_2\\bang_2.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_2_20261025_200203.json",
+        "timestamp": "2026-10-25 20:02:03"
+    },
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_3",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_3\\bang_3.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_3_20261025_200203.json",
+        "timestamp": "2026-10-25 20:02:03"
+    },
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_4",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_4\\bang_4.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_4_20261025_200203.json",
+        "timestamp": "2026-10-25 20:02:03"
+    },
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_5",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_5\\bang_5.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_5_20261025_200204.json",
+        "timestamp": "2026-10-25 20:02:04"
+    },
+    {
+        "ten_script_tao": "chuong_trinh",
+        "ten_thu_muc": "ThuMuc_6",
+        "file_nguon": "G:\\My Drive\\QL6TEP\\ThuMuc_6\\bang_6.txt",
+        "file_json_output": "chuong_trinh_ThuMuc_6_20261025_200204.json",
+        "timestamp": "2026-10-25 20:02:04"
+    }
+]

@@ -1,0 +1,92 @@
+{
+    "metadata": {
+        "script_su_dung": "dieu_phoi_tong_6_tep.py",
+        "timestamp": "2026-10-25 20:02:04",
+        "date_minus_7_days": "2026-10-18",
+        "date_plus_7_days": "2026-11-01",
+        "thu_muc_nguon": "G:\\My Drive\\QL6TEP",
+        "danh_sach_thu_muc_con": [
+            "ThuMuc_1",
+            "ThuMuc_2",
+            "ThuMuc_3",
+            "ThuMuc_4",
+            "ThuMuc_5",
+            "ThuMuc_6"
+        ],
+        "file_nguon_quet": [
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\bang_1.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\promt.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_1\\desktop.ini",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\bang_2.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_2\\desktop.ini",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\bang_3.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_3\\desktop.ini",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\bang_4.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_4\\desktop.ini",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\bang_5.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_5\\desktop.ini",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\BANGSODACBIET.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\BANGSOTHAMCHIEU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\bang_6.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\THUONGLUU.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\DSNGUOINHA.txt",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\chuong_trinh.exe",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\config_chuong_trinh.json",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\chuong_trinh.py",
+            "G:\\My Drive\\QL6TEP\\ThuMuc_6\\desktop.ini"
+        ]
+    },
+    "people": {
+        "danh_sach_nhan_su": []
+    },
+    "ref_numbers": [
+        0,
+        12,
+        6
+    ],
+    "custom_tabs": {
+        "danh_sach_thu_muc_con": [
+            "ThuMuc_1",
+            "ThuMuc_2",
+            "ThuMuc_3",
+            "ThuMuc_4",
+            "ThuMuc_5",
+            "ThuMuc_6"
+        ]
+    }
+}
